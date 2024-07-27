@@ -1,0 +1,8 @@
+[
+    {"id": 1, "name": "Navjot", "role": "Developer"},
+    {"id": 2, "name": "Arsh", "role": "Designer"},
+    {"id": 3, "name": "Gursimar", "role": "Teacher"},
+    {"id": 4, "name": "kevin Brown", "role": "Tester"},
+    {"id": 5, "name": "mubarak Hanks", "role": "Developer"},
+    {"id": 6, "name": "john Wilson", "role": "Designer"}
+  ]
